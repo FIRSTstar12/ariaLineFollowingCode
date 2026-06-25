@@ -1,0 +1,3 @@
+[console_scripts]
+line_controller = line_follower.line_controller:main
+line_image_processor = line_follower.line_image_processor:main
